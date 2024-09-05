@@ -1,0 +1,54 @@
+.card {
+    height: 100%; 
+  }
+  
+  .card-body {
+    text-align: center;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; 
+  }
+  
+  .card-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: auto; 
+  }
+  
+  .card-text {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 100%;
+  }
+  
+  .card-img-top {
+    max-height: 200px;
+    object-fit: cover;
+  }
+  
+
+  .carousel-margin {
+    margin-bottom: 20px;
+  }
+  
+  .vr {
+    height: 2px;
+    background-color: #ccc;
+    margin: 20px 0;
+  }
+  
+  .products {
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    color: #333;
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+  }
+  
+  .row-cols-1 {
+    margin-bottom: 20px;
+  }
