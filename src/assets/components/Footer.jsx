@@ -38,11 +38,11 @@ const Footer = () => {
                                         </div>
                                         <p></p>
                                         <p className="info">
-                                            <i className="ion-ios-location"><img src="src/assets/img/whatsapp.png" alt="whatsapp" width="25" height="25"/></i>
+                                            <i className="ion-ios-location"><img src="/img/whatsapp.png" alt="whatsapp" width="25" height="25"/></i>
                                             <a href="https://wa.me/573219981363"> (+57) 321 9981363</a>
                                         </p>
                                         <p className="info">
-                                            <i className="ion-ios-location"><img src="src/assets/img/instagram.png" alt="instagram" width="25" height="25"/></i>
+                                            <i className="ion-ios-location"><img src="/img/instagram.png" alt="instagram" width="25" height="25"/></i>
                                             <a href="https://www.instagram.com/celcuotas/"> celcuotas</a>
                                         </p>
                                         <p className="info">
