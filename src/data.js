@@ -1,7 +1,7 @@
 export const data = [
   {
     id: "Iphone1",
-    img: "src/assets/img/Apple/Iimg0.png",
+    img: "src/./assets/img/Apple/Iimg0.png",
     nameProduct: "Iphone 15 Pro Max 256Gb| 8Gb Ram",
     price: 6700000,
     quantity: 1,
