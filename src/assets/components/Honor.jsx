@@ -66,7 +66,7 @@ const onAddProduct = (product) => {
                         </div>
                         <div className="carousel-inner">
                             <div className="carousel-item active">
-                                <img src="src/assets/img/carrusel2.png" className="d-block w-100" alt="0" />
+                                <img src="/img/carrusel2.png" className="d-block w-100" alt="0" />
                                 <div className="carousel-caption d-none d-md-block"></div>
                             </div>
                             <div className="carousel-item">
