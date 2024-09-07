@@ -1,0 +1,27 @@
+/* RequisitosCredito.css */
+.requisitos-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 30px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .requisitos-container h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .requisitos-container ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .requisitos-container li {
+    margin-bottom: 10px;
+    color: #666;
+  }
+  
