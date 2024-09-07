@@ -49,7 +49,7 @@ const onAddProduct = (product) => {
                     <Link to="/">
                         <div className="rounded-circle-container">
                             <img
-                                src="src/assets/img/Marcas/Honor.png"
+                                src="/img/Marcas/Honor.png"
                                 alt="Honor"
                                 className="img-fluid"
                             />
